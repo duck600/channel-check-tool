@@ -1,0 +1,9 @@
+{
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "渠道变更检查工具",
+    "collaborative": false,
+    "defaultKernelName": "python",
+    "disabledExtensions": []
+  }
+}
